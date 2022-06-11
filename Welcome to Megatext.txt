@@ -1,0 +1,7 @@
+Welcome to Megatext
+Download some of the example art like EmoticonMaze or make your own using the BaseTemplate.py file
+Feel free to mod this or fork this. Also feel free to upload your own megatext art and share it on other platforms, No need to credit me or anything. You can give me suggestions on my discord server https://discord.gg/ufQAvFKtDZ (Osborn Ink) no need to verify on the server!
+
+
+You can remove the watermark sort of print files in the base template, i understand how stupid watermarks are and how annoying they are!!! 
+（╰（‵□′）╯
