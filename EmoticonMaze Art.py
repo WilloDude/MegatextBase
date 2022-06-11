@@ -29,7 +29,6 @@ print("|")
 print("|  (●'◡'●)               ☆*: .｡. o(≧▽≦)o .｡.:*☆")
 print("|")
 print("|  (●'◡'●)               (┬┬﹏┬┬) ╰(*°▽°*)╯")
-
 ## Ending Sequence
 end1= input("Art made by WilloDude")
 print("Made with Megatext") ## Feel Free to remove this! I understand the pain of watermarks and other marketting things!
